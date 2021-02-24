@@ -1,4 +1,4 @@
-# facebook_post_data_scrub_and_store_data_in_CSV_file
+# facebook_post_data_scraper_and_store_data_in_CSV_file
 
 
 [from Secrets import username, password](https://github.com/mahadi0007/facebook_post_data_scrub_and_store_data_in_CSV_file/blob/master/.ipynb_checkpoints/facebook%20data%20scrubber-checkpoint.ipynb)
